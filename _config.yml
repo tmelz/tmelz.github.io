@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            tmelz
+tagline:          brain dump
+url:              http://tmelz.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Tim Mellor
+  url:            https://tmelz.github.io
+  email:          timothy.mellor@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
